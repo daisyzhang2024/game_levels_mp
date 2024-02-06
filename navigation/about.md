@@ -27,7 +27,7 @@ permalink: /about/
                 <td>Gavin C</td>
                 <td>Nora</td>
                 <td>Xavier</td>
-                <td>Daisy</td>
+                <td><a href="https://github.com/daisyzhang2024/student.git">Daisy</a></td>
                 <td>Matthew</td>
             </tr>
             <tr>
